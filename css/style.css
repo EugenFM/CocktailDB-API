@@ -16,6 +16,9 @@ img {
   height: 200px;
 }
 
+li {
+  background-color: aquamarine;
+}
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
